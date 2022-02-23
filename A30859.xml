@@ -1,0 +1,1000 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Baptism, infant-baptism, and Quakerism briefly, but impartially considered, in a letter to a friend with a short disswasive from the impiety, atheism, and popery of our age, in another letter : with an appendix.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 69 KB of XML-encoded text transcribed from 30 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30859</idno>
+            <idno type="STC">Wing B675</idno>
+            <idno type="STC">ESTC R22609</idno>
+            <idno type="EEBO-CITATION">12303423</idno>
+            <idno type="OCLC">ocm 12303423</idno>
+            <idno type="VID">59182</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30859)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59182)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 199:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Baptism, infant-baptism, and Quakerism briefly, but impartially considered, in a letter to a friend with a short disswasive from the impiety, atheism, and popery of our age, in another letter : with an appendix.</title>
+               </titleStmt>
+               <extent>[10], 48 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. [9].</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Imperfect: text often unreadable.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Baptism --  Early works to 1800.</term>
+               <term>Infant baptism --  Early works to 1800.</term>
+               <term>Society of Friends.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59182:1"/>
+            <pb facs="tcp:59182:1" rendition="simple:additions"/>
+            <p>BAPTISM, <hi>INFANT-BAPTISM,</hi> AND QUAKERISM Briefly, but Impartially Conſidered, in a Let<g ref="char:EOLhyphen"/>ter to a Friend. WITH A ſhort Diſſwaſive from the Impiety, Atheiſm, and POPERY of our AGE, in another Letter.</p>
+            <p>
+               <hi>With an Appendix.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1674.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:59182:2"/>
+            <pb facs="tcp:59182:2"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Have had the Happineſs of theſe Papers Company ſome years; they have lain by me in this defenſive poſture, thou now findeſt them, a long time, and I aſſure thee they have de<g ref="char:EOLhyphen"/>meaned themſelves very quietly, though <hi>Men of War,</hi> without offending any, as I hope they will ſtill, ſince they first Quartered with me, there have been ma<g ref="char:EOLhyphen"/>ny Inſurrections, many a Battle fought, many a Line drawn, and many a Trench cloſely Beſieged: Theſe Controverſies of Infant Baptiſm and Quakeriſm have of late been hotly bandied to and again. I have, after ſeveral attempts made by my ſelf and others, proved vain and inef<g ref="char:EOLhyphen"/>fectual
+<pb facs="tcp:59182:3"/>through the Authors modeſt loath<g ref="char:EOLhyphen"/>neſs to appear in Print; I have (I ſay) at length prevailed with the Author to Commiſſion them to go out into the Camp, and contribute all they can towards the Peace and quiet of Religion, I have ex<g ref="char:EOLhyphen"/>torted leave of him to preſs them to the publick Service, and yet I hope they will demean themſelves as victorieuſly as other Volunteers that have gone out to ſlay. This is all I thought good to Advertiſe thee; and ſo I leave thee to the Authors previ<g ref="char:EOLhyphen"/>ous Advice.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:59182:3"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>
+                  <hi>Un<gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>diced, and Impartial Reader,</hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">F</seg>OR ſo theſe papers ſuppoſe thee, if they miſtake, I am ſorry for it; if thou art not Impartial, I wiſh <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ou wert ſo; if not unprejudiced and unpre-engaged, may they make thee ſo; if thou art hot cither <hi>pro</hi> or <hi>con,</hi> here is no treatment for the (at leaſt, not in the first at puter if thou comeſt with a pious inaif<g ref="char:EOLhyphen"/>ferency to poſſeſs thy ſelf of Truth and verity, read and welcome, ſoon, and proſper.</p>
+            <p>The deagn of thoſe prefactory Lanes is not to Court thy Acceptance, or ſuborn thy ſa rane, for to bride thy vote, nor yet to fort-ſtall thy judgment, for this would be very unlake the laſineſs of the diſpute they uſher in, which is, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t to beg, but by ſtrength of reaſon command thy aſſent, not to deſire the favour, but by dint <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Argument to require the juſtice of thee to
+<pb facs="tcp:59182:4"/>believe the Truths defended, and diſ-believe the Erros confuted, it is hoped both are mo<g ref="char:EOLhyphen"/>deſtly enough done. I requeſt of thee onely to be clam, ſedate, and impartial, and be what thou wilt eiſe.</p>
+            <p>It is not knneceſſary (I think) to let thee know, that theſe were real, not feigned Letters, thou art not the firſt they were ſent to, nor the <hi>Friend</hi> meant in the Title page, though now at the ſecond hand thou art, and I hope they wil give thee no cauſe to be otherwiſe, ſo that thou maiſt be aſſured the reaſon of the <hi>Title</hi> is not any emulatton of the Faſhion of writing (even) contraverſies that hath of late ſo much obtained, <hi>A Letter to a Friend</hi> of <hi>700.</hi> pages ſometimes, which me thinks, ſhould be added to the Title, that the <hi>Friend</hi> might know how long the <hi>Letter</hi> would keep him from buſineſs, and matters of concernment, without the trouble of turning to the end of the Book before he hath ſcarce ſa his eye upon the beginning. Know alſo this both Letters were writ ſo long ago as <hi>1668.</hi> both of them without the leaſt intent or purpoſe of pub<g ref="char:EOLhyphen"/>lication. That the firſt was writ in a ſheet of paper, which you muſt be remembred for the us derſtanding of an Expreſſion in the cloſe of it. That in the cloſe of the laſt Letter, the <hi>Roman</hi> Innovations are intended, and how much reaſon there hath been ſince the Year <hi>666.</hi> to fear the
+<pb facs="tcp:59182:4"/>corrupting of the Truth, and the defacting of the Religion of <hi>England</hi> by Popiſh contrivances, I need not tell thee, therefore if thou takeſt the ſenſe, meaning, or deſign to be that the Church hath not the power to regulate neceſſary Circum<g ref="char:EOLhyphen"/>ſtances (not expreſſed in Scripture) in the Worſhip of God, thou doſt miſtake. And laſtly, take notice, that brevity was ſtudied in both Let<g ref="char:EOLhyphen"/>ters, and therefore thou canſt not expect as much here on the Subjects treated of, as thou maiſt in larger volumes, yet I think I may ſay thou wilt find more in a little here than thou canſt any where elſe, ſo much brevity, reaſon, and diſtinct<g ref="char:EOLhyphen"/>neſs couched together (if I miſtake not) thou wilt miſs in many other books; thus much I hope I may ſay without any arrogance or immodeſty.</p>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:59182:5"/>
+            <pb facs="tcp:59182:5"/>
+            <head>ERRATA.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>THou maiſt well wonder to ſee ſo many Errata's in ſo few Leaves, and ſo large a Catalogue of Er<g ref="char:EOLhyphen"/>rors in ſo little a Book: nor are here all, ſome are on<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ted becauſe they will not much diſturb the ſenſe, others becauſe they will not eaſily eſcape they nother. Share the fault between the Authors Abſence, and the Printers Negligence, and then Correct before there Readeſt.</p>
+            <p>Preface 1. line 11. r. <hi>Truth.</hi> 2 preface l. 11. r. <hi>Pre fatory.</hi> The Book. p. 2. l. 24. for <hi>that</hi> r. <hi>not.</hi> p. 4. l. 10. r. <hi>Acte</hi> 8.36. l. 21. r. <hi>it,</hi> not <hi>God.</hi> p. 6. l. 9. r. <hi>ſure.</hi> l. 10. r. <hi>not</hi> p. 10. l. 1. for <hi>now,</hi> r. <hi>when.</hi> l. 11. between <hi>they,</hi> and <hi>are,</hi> r. <hi>that.</hi> p. 11. l. 10. after <hi>Baptiſm,</hi> r. <hi>to come, ro the ſprinkling uſed in the Law which ſignified the ſan<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> bing that Baptiſon doth.</hi> p. 16. l. 3. for <hi>and,</hi> r. <hi>the</hi> l. 10. for <hi>and,</hi> r. <hi>1.</hi> l 16. r. <hi>tremulous</hi> l. 25. r. <hi>Devtl.</hi> p. 18. l 2. <hi>to them,</hi> add <hi>Iſa.</hi> 8.20. l. 13. for <hi>of is,</hi> r. <hi>in</hi> p. 19. dele <hi>of.</hi> l. 22. dele. <hi>not.</hi> p. 20. l. 25. r. <hi>theſe.</hi> p. 22 <hi>l.</hi> 17. for <hi>of it,</hi> r. <hi>not.</hi> l. 23. r. <hi>Evaſion.</hi> p. 23. l. 11. r. <hi>tenent.</hi> p. 24 l. 15. r. <hi>idioms.</hi> p. 26. l. 16. after <hi>only,</hi> add <hi>every.</hi> p., 29. l. 17. r. <hi>Willingly.</hi> p. 32. l. 10. add to <hi>which, when. p.</hi> 33. l. 13. r. <hi>ever.</hi> p. 42. l. 18. r. <hi>Ratiocinoſo's.</hi> p. 43. l. 6. r. <hi>Wittyneſſes.</hi> l. 7. r. <hi>We.</hi> p. 46. l. 7, and 10. r. <hi>Maſter,</hi> not <hi>Minſter.</hi> l. 8. r. <hi>are generally,</hi> not <hi>and generally.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:59182:6"/>
+            <pb n="1" facs="tcp:59182:6"/>
+            <head>BAPTISM, <hi>INFANT-BAPTISM,</hi> AND QUAKERISM CONSIDERED.</head>
+            <opener>
+               <salute>Dear Coſin,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe Lines, <hi>&amp;c.</hi> — The Queſtion is, <hi>Whether In<g ref="char:EOLhyphen"/>fants are the Subjects of Bap<g ref="char:EOLhyphen"/>tiſm?</hi> Or, <hi>Whether Inſante may be baptized? Anſw.</hi> I affirm it, &amp; ſhall lay down my mind in theſe following poſitions con<g ref="char:EOLhyphen"/>cerning Baptiſm.</p>
+            <p n="1">1. Baptiſm is an Ordinance, a Command that claims every Chriſtians Obedience while he is on this ſide the end of the world: One known proof (to prevent tediouſneſs)
+<pb n="2" facs="tcp:59182:7"/>ſhall ſerve my turn, <hi>Mat.</hi> 20.19. <hi>Teach <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Diſci<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s all Nations, Baptiſing,</hi> &amp;c. A pl<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> proof that Chriſt would have all Nations, who pretend to be his Diſcipies, to be bap<g ref="char:EOLhyphen"/>tized; and if this be a Commandment a Chriſt, furely they that have any love for him ſhould keep this as well as other com<g ref="char:EOLhyphen"/>mandments, <hi>John</hi> 14.15. Is it not then <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> dangerous aſperſion upon the wiſdom <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Chriſt to call it a Carnal Ordinance? Is it not extremely hazardons to load the Inſtitu<g ref="char:EOLhyphen"/>tions of Chriſt with Carnal, outward, us profitable, and the like ignominious terms. And is it not as much ſo it neglect then, and take our ſelves to be unconcerned in his Commands, when yet we profeſs to love him? Surely thoſe perſons that ſo uſually, ſo eaſily neglect this Command under the Notion of an unprofitable one, would have much more done ſo, were they in our Fa<g ref="char:EOLhyphen"/>ther <hi>Adam</hi>'s ſtead, with the prohibition of eating of the Tree of Knowledge, and look <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> upon it as a very inconſiderable, and inſig<g ref="char:EOLhyphen"/>nificant Command; and may we that fear they will by the neglect of this Command forfeit all happineſs, and caſt themſelves (and every one elſe, if they can prevail with them) into equal, into greater miſe<g ref="char:EOLhyphen"/>ry than <hi>Adam</hi> did us by his Fall? To for<g ref="char:EOLhyphen"/>bear
+<pb n="3" facs="tcp:59182:7"/>doing our Bleſſed Saviours Commands till we know why, and wherefore, and what reaſon he had to command them, is pride, and preſumption too great for a Chriſtian to be guilty of. To fix bounds to the Com<g ref="char:EOLhyphen"/>mands of Chriſt, when himſelf doth not ſo; to ſay they reached no further than the end of that diſpenſation, when he himſelf ſays to the end of the World: Or that it was to be of force no longer than till Chriſt came in his Spirit, when ſure the Chriſtians in thoſe times had his Spirit; nay, when the Apoſtles had no ſooner received the Spirit in an extraordinary manner, but the firſt thing they preached, was, <hi>Repent, and be Bapti<g ref="char:EOLhyphen"/>zed,</hi> Acts 2.38. And when all along after we find them executing this Command, and mentioning it in their Epiſtles, <hi>Eph</hi> 4.5. <hi>&amp;c.</hi> To ſay that we find God binding the phraſes of (for ever) to the end of the World, and the like in the Old Teſtament to a certain period of time, therefore Man may do it now, are all Argumentations as wild and Extravagant as they are proud and im<g ref="char:EOLhyphen"/>pudent; and certainly, Men that Argue at this rate are arrived to the higheſt pitch of pride, and Arrogance. I wonder theſe men do not blot out Teaching as well as Baptiz<g ref="char:EOLhyphen"/>ing when they go together in the ſame com<g ref="char:EOLhyphen"/>mand. <hi>Teach all,</hi> &amp;c</p>
+            <p n="2">
+               <pb n="4" facs="tcp:59182:8"/> 2. Baptiſm is a priviledge: It is a Com<g ref="char:EOLhyphen"/>mand, therefore Chriſtians muſt Obey it. It is a priviledge, and ſo they have a right to it, and ſhould bleſs God for it: that which doth diſtinguiſh between Believers and Unbelievers is a priviledge, but Bap<g ref="char:EOLhyphen"/>tiſm doth ſo: No Indians, no Heathens, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nay, no Children but them of Believing. Parents may be Baptized; that it is a pri<g ref="char:EOLhyphen"/>viledge, is plain, from <hi>Acts</hi> 36.37.</p>
+            <p n="3">3. Baptiſm confers not Grace, of it ſelf it doth not, nor doth God give Grace a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> part of the Nature of Baptiſm, for many have Grace before they are Baptized, and yet are really Baptized after Converſion; therefore it is a groſs miſtake, that Infants are Baptized, becauſe Baptiſm makes them Holy or Gracious, but they are ſo, becauſe God Commands they ſhould be; and be<g ref="char:EOLhyphen"/>cauſe they have a Covenant, Holineſs before hand, and ſo have a right to God, 1 <hi>Cor.</hi> 7.14.</p>
+            <p n="4">4. Baptiſm is what Circumciſion was, Circumciſion was an outward ſign of inviſi<g ref="char:EOLhyphen"/>ble Grace, ſo is Baptiſm. The Apoſtle makes Circumciſion and Baptiſm to ſhadow out the ſame thing, <hi>Col.</hi> 2.11, 12.</p>
+            <p n="5">5. Circumciſion was a ſign or Seal of the Covenant, <hi>Gen.</hi> 17.11. <hi>Rom.</hi> 4.11.</p>
+            <p n="6">
+               <pb n="5" facs="tcp:59182:8"/> 6. Baptiſm is the ſame, it is ſign of the Covenant, for that which ſignifies the grace of the Covenant muſt needs be a ſign of it: but Baptiſm doth ſo, <hi>Col.</hi> 2.12. If it be come in the room of Circumciſion, and that was a ſign of the Covenant, then Baptiſm muſt needs be ſo; if Circumciſion was a priviledge, and Believers under the Goſpel have more priviledges than they before it, then either Circumciſion is yet to be practi<g ref="char:EOLhyphen"/>ſed (as it muſt be, being the Command of it hath never been repealed, and it was given before the date of the Ceremonial Law, if nothing is done in it's ſtead) I ſay, Believ<g ref="char:EOLhyphen"/>ers are yet to be Circumciſed, or it was no priviledge, or we under the Goſpel want a great priviledge, which they before it enjoy<g ref="char:EOLhyphen"/>ed, or Baptiſm muſt be come in it's room; and ſo we enjoy the priviledge of a Seal of the Covenant in Baptiſm. If the Covenant was a priviledge, the Sign of it muſt be ſo too; now, if Circumciſion was a priviledge, and Infants were Circumciſed notwithſtan<g ref="char:EOLhyphen"/>ding their Actual unbelief, and Baptiſm be come in it's room, then Infants may be bap<g ref="char:EOLhyphen"/>tized, though they do not Actually believe; or Believers ſince the coming of Chriſt are ſtill bound to Circumciſion, and have leſs priviledges than they before.</p>
+            <p n="7">
+               <pb n="6" facs="tcp:59182:9"/> 7. Being in Covenant is the proper <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſon of, and a ſufficient reaſon for Baptiſm. Baptiſm is a ſign of the Covenant, and th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that have a right to the thing ſignified, wh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is the greater, have to the ſign, which is <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> leſs, but they that are in Covenant have <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> right to the thing ſignified; either being <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Covenant is the proper reaſon of Baptiſm <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or there is no ſuch reaſon for the admini<g ref="char:EOLhyphen"/>ſtring it: what true Faith, for we can ne<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be ſure where that is, and if it be not <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Faith, I am ſure it cannot be the profeſſion of it.</p>
+            <p n="8">8. The Infants of Believers are in Co<g ref="char:EOLhyphen"/>venant. If they were ſo in the Old Te<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ment, that they ſhould not be ſo in the Ne<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is very ſtrange; that they were in the Old is plain, from <hi>Gen.</hi> 17.10, 11, 12. that th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> are ſo in the New, is as plain, from <hi>Acts.</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 39. The promiſe is to you and your Chil<g ref="char:EOLhyphen"/>dren. It is indeed uſually objected, that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is to them, when they come to believe, wh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> as it is to them when they believe upon <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> former account the promiſe is to you; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that if this Expoſition be true, the la<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> part (and to your Children) muſt ſign<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> juſt nothing at all; and what encouragement could it be, to tell them, the promiſe was to their Children, when they believ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> when it was ſo to every body elſe.</p>
+            <p n="9">
+               <pb n="7" facs="tcp:59182:9"/> 9. The Infants of Believers may be bap<g ref="char:EOLhyphen"/>tized; if the former poſitions be true, this cannot be denyed, therefore I will not inſiſt upon it, nor ſhall I enlarge into other reaſons, it would be too tedious; but ſurely if Chil<g ref="char:EOLhyphen"/>dren be Holy or Saints, 1 <hi>Cor.</hi> 7.14. (the word being in the Original the ſame with that 1 <hi>Cor.</hi> 1.2. &amp; 6.2.) If Chriſt did bleſs them, <hi>Mat.</hi> 19.15. unleſs we take his bleſ<g ref="char:EOLhyphen"/>ſing to be no more than that inſignificant Ceremony that Old people uſe to their Chil<g ref="char:EOLhyphen"/>dren or God Sons, if he would have them come to him, as in the 140. If they be a part of all Nations, and Chriſt commands to <hi>Baptize all Nations,</hi> Mat. 28.19. and if they may be ſaved, as who ſo uncharitable us to think otherwiſe? I ſay, if theſe things be true, then ſurely they may be, they muſt be Baptized; and they may be, they muſt be reprov'd that forbid them Baptiſm, <hi>Mat.</hi> 19.14. And now I ſhall lay down a few po<g ref="char:EOLhyphen"/>ſitions, which (I hope) ſhall prevent and anticipate the uſual Objections, and they are theſe.</p>
+            <p n="1">1. That Infants are being expreſſed in Scripture, Commands or Examples is not a ſufficient Argument, to exclude them from Baptiſm, for by that reaſon Women ſhould not receive the Lords Supper, nor Merchants
+<pb n="8" facs="tcp:59182:10"/>or Mercers be Baptized, becauſe we never read in Scripture any ſuch Commands or Examples; nay, more, Men and Women ſhould not be Baptized, becauſe we fin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not expreſly that Men and Women in Con<g ref="char:EOLhyphen"/>tradiſtinction to Children, were Baptized <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for the word (Men and Women) where ever uſed to that purpoſe, ſignifies in the Original (Men kind and Women-kind) but Infants are ſo, therefore they may as well as others be Baptized.</p>
+            <p n="2">2. That Chriſt's Commanding, Teachin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or Repentance, and Baptizing to go toge<g ref="char:EOLhyphen"/>ther, compared with Infants inability to t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> former is not a good concluſion againſt in<g ref="char:EOLhyphen"/>fant-baptiſm.</p>
+            <p n="1">1. Becauſe that would equall have <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cluded Infnats from Circumciſion under <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Old Teſtament, becauſe God ſays to <hi>A<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ham,</hi> when he commanded Circumciſion <hi>Walk before me, and be perfect,</hi> Gen. 17.<gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as a Condition of the Covenant on his p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> therefore Infants who could not do the<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thing, ſhould not be Circumciſed, and y<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> we find they were; therefore,</p>
+            <p n="2">2. When Chriſt ſays, <hi>Teach all Nati<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Baptizing them</hi> he means, Teach them t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> are capable of being taught, and Bapti<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> them that are capable of Baptiſm; and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="9" facs="tcp:59182:10"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> valid reaſon to prove that none were <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aptized but they that were firſt taught and <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>pented, becauſe Teaching and Repent<g ref="char:EOLhyphen"/>ant is ſet before Baptizing in Scripture, then it's as valid a reaſon that ſome were Bapti<g ref="char:EOLhyphen"/>ſed before they were Taught or Repented, becauſe Baptizing is ſet before Repenting and Teaching; let ſaid, (<hi>John</hi> Baptized in the Wilderneſs, and Preached the Baptiſm of Repentance) firſt Baptized, then Preach<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Mark</hi> 1.4. but,</p>
+            <p n="3">3. Infants are capable of Repenting (<hi>i.e.</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Original ſin) and believing, or elſe none <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them are ſaved, for without Faith and repentance there is no Salvation, but ſure<g ref="char:EOLhyphen"/>ly <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that have a ſpark either of Grace, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, or Charity, will venture to think <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all infants are damn'd.</p>
+            <p n="4">4. The often mention of Mens being bap<g ref="char:EOLhyphen"/>tized, and of their Repentance concludes not <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>-Baptiſm unlawful, becauſe when the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and Chriſtianity were Preached, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> command of Baptiſm firſt given, it found <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>any, nay, all Unbelievers moſt Heathens <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they were Men; now, Heathens were <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to be baptized, becauſe there was no <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to believe them in Covenant, there<g ref="char:EOLhyphen"/>fore Repentance was neceſſary as the only <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ment of their being in Covenant, and
+<pb n="10" facs="tcp:59182:11"/>they being in Covenant; now Men muſt ne<g ref="char:EOLhyphen"/>cessarily be baptized when Men, for they could not be born again that they might b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Infants; the caſe was then as it would be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Miniſters in our days ſhould go and Preach to the <hi>Indians,</hi> their Converſion muſt neceſ<g ref="char:EOLhyphen"/>ſarily precede their Baptiſm; and being Converted (their Converſion being an In<g ref="char:EOLhyphen"/>fallible token of their being in Covenant) they muſt as neceſſarily be baptized; and yet this hinders not but that they are in Co<g ref="char:EOLhyphen"/>venant before their Converſion (as Infant are) may be baptized. Nor.</p>
+            <p n="4">4. Doth Infants appearing, when the come to Age, to be Unbelievers, argue the they may not be baptized, for they may be in Covenant, though unconverted, Gal may reach their hearts afterwards; beſide this would Argue againſt Circumciſion, be<g ref="char:EOLhyphen"/>cauſe many of the <hi>Jews</hi> proved Revolters <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Apoſtates; and do not many that are bap<g ref="char:EOLhyphen"/>tize in Man's eſtate prove ſo too? Ha<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> not our Times given us too many ſad inſtan<g ref="char:EOLhyphen"/>ces of it?</p>
+            <p>The next thing I ſhall do, ſhall be to l<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> down two or three poſitions about the man<g ref="char:EOLhyphen"/>ner of Baptiſm; whether by dipping, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſprinking; and,</p>
+            <p n="1">1. It is more than probable, that ſprink<g ref="char:EOLhyphen"/>ling
+<pb n="11" facs="tcp:59182:11"/>is the manner, becauſe it is a Propheſie of Goſpel times that Chriſt ſhall (ſprinkle many Nations) <hi>Iſa.</hi> 52.15. which if it mean not that Chriſt in Goſpel times ſhould bring many Nations into his Church, and in initiating and entring them into his Church, as a Seal or Sign of their being in Covenant, ſprinkle them by Baptiſm: I ſay, if this be not the meaning of it, or if it be metapho<g ref="char:EOLhyphen"/>rical, whence but from Baptiſm the Meta<g ref="char:EOLhyphen"/>phor ſhould be borrowed, I cannot Ima<g ref="char:EOLhyphen"/>gine.</p>
+            <p n="2">2. The Apoſtle <hi>Paul</hi> (who knew what Baptiſm was well enough) calls ſprinkling baptizing, which proves nothing more plain<g ref="char:EOLhyphen"/>ly, then that in his times the way of bapti<g ref="char:EOLhyphen"/>izing was by ſprinkling; that he doth ſo, is plain from 1 <hi>Cor.</hi> 10.2. they were all bap<g ref="char:EOLhyphen"/>tized in the Cloud, that is, ſome dewy drops fell from the Cloud upon them; for to ſay they were dipoed, or plunged in the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nd is too abſurd.</p>
+            <p n="3">3. At the furtheſt, it is indifferent whe<g ref="char:EOLhyphen"/>ther it be by dipping, or ſprinkling, becauſe Chriſt no where ſays, <hi>go, and dip all Nati<g ref="char:EOLhyphen"/>on,</hi> but, <hi>go, and baptize them;</hi> and the word in the Original, is uſed for waſhing; new, when any thing is waſhed water is caſt upon it, as is on Infants when they are bap<g ref="char:EOLhyphen"/>tized
+<pb n="12" facs="tcp:59182:12"/>by ſprinkling, nor is it any where uſed for plunging or dipping in the water; but.</p>
+            <p n="4">4. It Infants may be baptized, it is not indifferent, whether by ſprinkling or dip<g ref="char:EOLhyphen"/>ping, for God rathers Mercy than Sa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ines, and it were a ſin to hazard the Life of Chil<g ref="char:EOLhyphen"/>dren by dipping, when they may be bapti<g ref="char:EOLhyphen"/>zeds by ſprinkling, as they may, if it be indifferent, whether it be done by dipping or ſprinkling.</p>
+            <p n="5">5. Thoſe Expreſſions in Scripture, of (there was muon water) and that of (go<g ref="char:EOLhyphen"/>ing down into the water) conclude nothing but that water was ſcarce in thoſe hot Countries, and a little water was therefore called much; and that the River lay in a ſteep place, or at the bottom of an Hill, all ſo they were fain to go down to it.</p>
+            <p n="6">6. Circumciſion was the cutting off the fore skin of one part of the Body (by a trope for the whole) which yet ſignified <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Spiritual Circumciſion of the whole Soul, <hi>Dent.</hi> 30.6. <hi>God will Circumciſe thy Heart,</hi> that is, thy Soul, <hi>Jer.</hi> 4.4. <hi>Be Circumciſe and take away the fore skins of your Heart.</hi> that is, the Original bent and propenſity <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> your Souls to ſin. Now, if Baptiſm ſuc<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Circumciſion, then this may alſo be of out
+<pb n="13" facs="tcp:59182:12"/>part for the whole, to deaote the waſhing of the whole S<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> from the power and guilt of ſin, and what part of the B<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly is more fi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> our Faces, which outing uiſh us fr<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> other Creatures; and ſo where chie<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Image of God lies, the Face wh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Perch of the Souls Palace, the Heaad <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es and keeps Court; and thus <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> with this point. I have not, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the leaſt invective a<g ref="char:EOLhyphen"/>gainſt the People that hold the adverſe Opi<g ref="char:EOLhyphen"/>nion, becauſe I have a high eſteam for moſt of them; I have all this while only ſpoken of the thing, not of the Perſons that deny what I here defend, or defend what I deny; only I wiſh they would not hold that Opini<g ref="char:EOLhyphen"/>on, or having held it, would do ſo no long<g ref="char:EOLhyphen"/>er if any gives them Reaſon and Scripture to the contrary; but theſe few Lines I have haſtily written only for your own peruſal, though ſuch ſucceſs as the ſatisfying of you is beyond my hopes.</p>
+            <p>The next Queſtion which you and I Diſ<g ref="char:EOLhyphen"/>courſed about, was concerning the <hi>Quakers,</hi> Perſons that pretend to a greater Light, a higher perfection than the inſpired Saints, whom God made uſe of to manifeſt his will, that in ſpight of Scripture, which ſays, (<hi>other
+<pb n="14" facs="tcp:59182:13"/>Foundation can no man lay than that is laid, which is Chriſt Jeſus,</hi> 1 Cor. 3.11.) lay the Foundation of their Faith (if they have any) on a Light within, a Comet inſtead of that Star that came out of <hi>Jacob,</hi> Num. 24.17. Jeſus Chriſt. A Light that is king led (I fear) by Hell-fire, prepared for Satan and his Accomplices that ſometimes transform themſelves into Angels of light; Perſons that labour to deſtroy all the Funda<g ref="char:EOLhyphen"/>mentals of Chriſtian Religion, of whoſe Arrogance and Pride their rejecting Sacred Writ is not the leaſt Argument; and there<g ref="char:EOLhyphen"/>fore if I be a little ſevere and Satyrical a<g ref="char:EOLhyphen"/>gainſt them you muſt pardon me.</p>
+            <p>The firſt thing to be conſidered, is the Light within; the Queſtion then is, <hi>Whether there be a Light in every man, which if he fol<g ref="char:EOLhyphen"/>low will lead him to Salvation?</hi> That is, whe<g ref="char:EOLhyphen"/>ther a Natural Man may be ſaved, for that which is in every Man is Natural to Men, therefore is this Light be in every Man it goes to the making up of a Natural man; in that the Queſtion is, <hi>Whether a Natural man may be ſaved?</hi> I deny it; for,</p>
+            <p n="1">1. He that knows not the things of God cannot be ſaved; but the Natural man knows not the things of God, 1 <hi>Cor.</hi> 2.14. <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> man can love, or believe in that which he knows
+<pb n="15" facs="tcp:59182:13"/>not, nor can any be ſaved without believing in, and loving Jeſus Chriſt;</hi> therefore the Natu<g ref="char:EOLhyphen"/>ral man that can none of theſe things cannot be ſaved.</p>
+            <p n="2">2. All men dead in ſins and treſpaſſes, and in the ſtate of Nature cannot, notwithſtand<g ref="char:EOLhyphen"/>ing any Light they have, be ſaved; for what Light hath any dead man? and what can he follow that hath no Life? what good Action can he Act, that hath no Principles to Act it from? Now, following a good Light is a good Action, and a man dead in treſpaſſes, ſins, hath no good Principle to Act from, for he that hath a principle of Life is not dead in ſins, and treſpaſſes, but he that hath a Light within, that will, if followed, lead him to Salvation, hath a principle of Life. Again, they that are in the ſtate of Nature, are unregenerate, for they that are not born again are unregenerate, and they that are not ſo, cannot ſee God, <hi>John</hi> 3.3. And they that are in the ſtate of Nature are not born again, for they that are but once born, are not born again, but they that are in the ſtate of Nature are but once born, and that of the fleſh, <hi>John</hi> 3.6. Now, ſome men are dead in treſpaſſes and ſins, <hi>Eph.</hi> 2.1. in the ſtate of Nature, <hi>Eph.</hi> 2.3. Therefore all men have not a Light within which will
+<pb n="16" facs="tcp:59182:14"/>lead them to Salvation, and if they had, can<g ref="char:EOLhyphen"/>not follow it, and therefore not be ſaved. And Quakers hold they can follow it; if all this be true, then it is as true that there is not a lIght within every man, which if fol<g ref="char:EOLhyphen"/>lowed, will bring them to Heaven.</p>
+            <p n="3">3. If there be a Light in every man, it is the Light (that is the knowledge) of Chriſt or it is not; if they grant that it is the Light of Chriſt, and deny that it is in every man, for they that are in darkneſs, or in the dark have no Light; but ſome (go knows) <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> many, and many of them (I fear) that dream of a Light, and think they ſee, are in darkneſs, <hi>Eph.</hi> 5.8. Again, they that have not head of Chriſt, have not the Light of Chriſt, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Faith comes by Hearing, <hi>Rom.</hi> 10.14. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> But how many in the <hi>Iodies,</hi> and other Hes then parts of the World have not heard of Chriſt, and ſo cannot believe in him, can not be ſaved, <hi>Mark</hi> 16.16. If they ſay, it is not the Light of Chriſt, I deny that if a man follow it he ſhall be ſaved, for there is not Salvation in any other, <hi>Acts</hi> 4.12. Them is no Salvation without believing in Chriſt, and that he is the Meſſiah, <hi>John</hi> 8.24. But as to the Quakers Light in particular.</p>
+            <p n="4">4. That Light which is not from God cannot ſave us, but that Light which forbids
+<pb n="17" facs="tcp:59182:14"/>us doing thoſe things which God in his Word Commands is not, cannot be from God, for that God that is infinitely perfect cannot contradict himſelf; but the Quakers hight bids us leave thoſe Ordinances (as the Sacraments) which God hath Com<g ref="char:EOLhyphen"/>manded us, if therefore they will reject Scripture, and exalt their Light to be a Rule in it's ſtead, let them bring Miracles that we may believe them Divinely inſpired otherwiſe (nor indeed if they could bring Miracles which they never have done) we can never believe, that that word which Commands the Sacraments is not the word of God, or that God intended they ſhould inſt no longer than the riſing of their tumu<g ref="char:EOLhyphen"/>lus blazing Stars; nor yet will they (I doubt) work a greater Miracle than they have, namely, that men indued with Rea<g ref="char:EOLhyphen"/>ſon, ſhould be ſo fooliſh, ſo extreamly ſottiſh, as to deſert the Word of their great Creator, and ſubſtitute in its room their own fond, unreaſonable, and unſteady con<g ref="char:EOLhyphen"/>trite; for ſure it is above the power of Na<g ref="char:EOLhyphen"/>ture, and deceit muſt have a hand in it; but (now, having reſcued the Word of God to be ſtill our Rule) if there be a Light in <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>y man, <hi>&amp;c.</hi> the <hi>Quakers</hi> are no men, for that they have not any Light, I prove thus.</p>
+            <p n="5">
+               <pb n="18" facs="tcp:59182:15"/> 5. They that ſpeak not according to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Word of God have no Light in them, h<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the <hi>Quakers</hi> ſpeak not according to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Word of God, therefore the <hi>Quakers,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all their blazing abroad their imaginable Light, have indeed no Light in them; a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> it is plain that they ſpeak not according <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Word, from their rejecting the Sar<g ref="char:EOLhyphen"/>ments, and from what ſhall follow.</p>
+            <p n="1">1. They deny the Trinity and yet Un<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of God, which I ſhall prove againſt th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> with this one Argument, grounded oph<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Scripture, which is this they deviate fr<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+            </p>
+            <p>
+               <hi>Arg.</hi> If there be three that bear Record in Heaven, then there are three reaſonable Perſons, for things without Reaſon cau<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> bear Record to any thing; but there <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> three, 1 <hi>John</hi> 5.7. That theſe three are Col<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is plain, for unleſs they differ in Nature <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> being God) from the Saints, there <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> more than three that bear Record in Ho<g ref="char:EOLhyphen"/>ven, <hi>(viz.)</hi> the Angels and Saints T<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Father is God none denies, that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Son is God, I prove thus; He that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from Everlaſting, before the Creation, my be God; for if he was not God, then he <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Crealed, and if he was Created, he <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not before the Creation, but Jeſus Cl<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, the Eſſential Word of God (by which the
+<pb n="19" facs="tcp:59182:15"/>World was made) was from everlaſting and before the Creation, <hi>Prov.</hi> 8.22.23 and throughout the Chapter. That the Ho<g ref="char:EOLhyphen"/>ly Ghoſt is God, I prove by the ſame Ar<g ref="char:EOLhyphen"/>gument; He that was before the Creation, and is part of God (if I may have leave <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſpeak ſo for our better underſtanding) is God; but the Spirit of God was before the Creation, <hi>Gen.</hi> 1.2. if he was not, then but was Created, and if ſo, then a part of God (give me leave to uſe the expreſſion) was Created, and ſo was God partly Crea<g ref="char:EOLhyphen"/>ted, and partly uncreated; an abſurd piece of Blaſphemy that would introduce a com<g ref="char:EOLhyphen"/>poſition of ſuch imperfection into the Nature of God, for then one part of God was cre<g ref="char:EOLhyphen"/>ated by the other part, whereas nothing (no part of God) but an infinite, wholly per<g ref="char:EOLhyphen"/>fect God can Create; then alſo God would not be Eternal wholly, but a part of him <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly, and ſo would not be God; and he that cannot preſs his Faith to believe ſuch <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>inconceivable piece of Blaſphemous non<g ref="char:EOLhyphen"/>ſenſe, ſo much more un-intelligible than that, great and tremendous Myſtery I am now ſpeaking of, muſt firſt do the greateſt violence imaginable to his own faculties, and all this to damn for ever, damn his precious and immortal Soul: what ſhall we think of
+<pb n="20" facs="tcp:59182:16"/>them then, I mean thoſe fooliſh (I had moſt ſaid) Deviliſh <hi>Quakers,</hi> that make light a matter of denying this wonder Myſtery, and think themſelves very <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and ſccure from the judgment of God, wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with a mighty Pride and diſdain they <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ab<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to over-throw all the Principles of Relig <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> but to return, if then there be three <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſons, and theſe three are God, and th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> three are-one, 1 <hi>John</hi> 5.7. Then there <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> three Perſons, and yet but <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> next thing that they ſpeak not according the Word of God, is,</p>
+            <p n="2">2. That a man may be abſolutely <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in this Life, that is, that he <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fulfill the commands of God without the leaſt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for he that ſins at all is therefore impen<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> I deny it.</p>
+            <p n="1">1. Becauſe if all do offend in many th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> then all are not perfect in every thing, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all do offend in many things, <hi>James</hi> 3<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. That the Apoſtle ſpeaks this of all Chriſti<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in general is ſo plain, that it need no pr<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> however it cannot be denyed, but he ſpe<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> it of all the Chriſtians in theſe times, and to what a high degree of oſtentation ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thoſe mens good conceits of themſelve <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ried them, that will dare to give the inſp<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Apoſtle the lye, or prefer themſelves beſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="21" facs="tcp:59182:16"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Chriſtians of theſe times, who were <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ted by our dear Saviour himſelf, water<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> by his dear Apoſtles, and to whem his <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> our Heavenly Father guve the Increaſe.</p>
+            <p n="2">2. If we have no <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> , we have no <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Chriſt's Mediatien, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and the like; and if once we <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad will our Condition be? If <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> have while to Price themſelves in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, much good may it do theth; for my pa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, been willing, and I think every good Chriſtian is ſo a degree beyond content, to glo<g ref="char:EOLhyphen"/>riy in ſuch needs, wants, and Inſirmities, eſpecially having the great Apoſtle for our Companion, 2 <hi>Cor.</hi> 11.30. And I wiſh theſe mens ſo great Civility to themſelves do not a length Convert that folliſh imaginary light they ſo much talk of, into everlaſting ſenes in an Eternal Hell.</p>
+            <p n="3">3. We cannot confeſt and pray for for<g ref="char:EOLhyphen"/>meneſs of that we have not, but we are to confeſs and pray for forgiveneſs of ſins, therefore we have ſin, <hi>Mat.</hi> 6.12. <hi>Luke</hi> 13.<gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ames</hi> 3.16. 1 <hi>John</hi> 1.9.</p>
+            <p n="4">4. We cannot Live or Act but according to our knowledge, but we know the will of God but in part, 1 <hi>Cor.</hi> 13.12. therefore we do it, or live up to it but in part; now, what's done only in part, is not done per<g ref="char:EOLhyphen"/>fectly,
+<pb n="22" facs="tcp:59182:17"/>therefore we cannot do the Wi<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> God perfectly, and are poor imperfect O<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> turts; whatever the <hi>Quakers</hi> are, not be sedious, I refer you to theſe follow Scriptures, 1 <hi>Kings</hi> 8.46. <hi>Ecsl.</hi> 11. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 2 <hi>Cor.</hi> 4.16. <hi>Gal.</hi> 5.17. there are none a conceited of themſelves, as to think th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> are without ſin, but thoſe men that l<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> upon themſelves with their own <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lights, now, if I can but prove that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> are not perfect, either poor humble S<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> will need no proof but their own exper<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ces, and therefore thus I attempt it.</p>
+            <p n="5">5. They that deceive themſelves, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have not the Truth in them, are not perfect but ſinful, but the <hi>Quakers</hi> do ſtreno<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> deceive themſelves, and the Truth is it <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them which I prove thus; they that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they have no fin, deceive themſelves, and the Truth is not in them, 1 <hi>John</hi> 1.8. But the <hi>Quakers</hi> do ſo; therefore the <hi>Quakers</hi> are not perfect, but ſinful Creatnes as w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> as we. I know their uſual Reaſons is ri<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> do not ſay they have no ſin, but they do<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> obey it. To which I anſwer, they the tranſgreſs the Law of God, not only ha<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſin, but obey ſin, but they that ſin tranſg<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the Law, becauſe ſin is a tranſgreſſion of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Law, 1 <hi>John</hi> 3.4. and can a man have
+<pb n="23" facs="tcp:59182:17"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nſgreſſion of the Law, and not Tranſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> is it <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I cannot ſee how it's poſſible; and doubt whether I ſhall ever, unleſs by their light. So that theſe men, for all their <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at pretences, do ſin (as much, ſhall I <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>?) or moſt abundantly more than al<g ref="char:EOLhyphen"/>moſt the worſt of Perſons out of their Num<g ref="char:EOLhyphen"/>ber, which who that knows any of them well, knows not, how much more doth God?</p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to that petty tonement about saluting, was ſo ſimple a one, being confuted by the whole corrent of Scripture, that it would <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ue nothing but Vanity, and little to do <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ay to ſpend his time upon it. I ſhall on<g ref="char:EOLhyphen"/>ly ſay this therefore; If we ought not only is Salute our Friends, but others, then Sa<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ation is not only Lawful, but our Duty, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> we ought to Salute, not only our Friends, but others, <hi>Mas.</hi> 5.47. Now, if Salutati<g ref="char:EOLhyphen"/>on he Lawful, and pulling off Hats, and <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ing Courteſies (which are kinds of Sa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>tion) be unlawful, it muſt certainly be a beach of the eleventh Commandment, for I am ſure it is not of any of the reſt: So much for that Vanity. There is one other that vies folly with this, and that is the Religions Ciritiſms of (<hi>thou</hi> and <hi>you</hi>) which becauſe they are of the ſame folliſh
+<pb n="24" facs="tcp:59182:18"/>complexion with the former, I shall <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſalu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> them, and ſo take my leave; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> therefore.</p>
+            <p n="1">1. If we find (<hi>you</hi>) uſed to one Perf<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> in Scripture we may uſe it; but (<hi>you</hi>) uſed to one Perſon in Scripture, <hi>Job</hi> 18.2.3. But,</p>
+            <p n="2">2. To ſtrive about this is to ſtrive wh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſpeaks beſt <hi>Engliſh,</hi> it is not contended who ſpeaks moſt Holily, but who moſt <hi>Eng<g ref="char:EOLhyphen"/>liſhly;</hi> and we care not much if we a<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> them to be better <hi>Engliſh</hi> men, though p<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>haps we might be quit with them, if <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhould call to mind ſome other of their <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> oſms, but let them be better <hi>Engliſh</hi> m<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> they are not at all the more Religious <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that, unleſs every good Chriſtian muſt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ceſſarily be a good <hi>Engliſh</hi> man, and, then muſt not allow them of other Nation though they were <hi>Quakers,</hi> the named Chriſtians. If they are better criticks, the <hi>Engliſh</hi> Tongue, they are no nearer Haven than the top of <hi>Babel,</hi> than we that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſecurely at the bottom; and yet ſurely we being nothing elſe but the expreſſions of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> mind, while others know what we nie<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> when we ſay (<hi>you</hi>) to them, it being <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> uſual way of expreſſion we ſpeak as g<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <hi>Engliſh</hi> as they. It's ſtrange, that ſignify<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="25" facs="tcp:59182:18"/>our will to others ſhould be no ſin, and yet ſaying (<hi>you</hi>) which is an expreſſion of our thoughts to another ſhould be one; if you gleaſe therefore this ſhall be a breach of the twelfth Commandment, but theſe are trifles wothy of none, and unbecoming any but Perſons given up to Vanity and Follym, and left by God to follow me Light of their own Fires. It remains that I briefly Anſwer or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>evernt ſome Objections uſually made; I ſhall chuſe the latter way, becauſe its more <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>pendious, and therefore ſhall lay down <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or three poſitions concerning the Light within that may ſerve to prevent their Ar<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ments in defence of it.</p>
+            <p n="1">1. Where the Scripture ſays, <hi>there is a Licks within every man,</hi> it ſays no more than what we grant, for we acknowledge, and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſs, God for it, that every man is en<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed with the Light of Reaſon and Conſci<g ref="char:EOLhyphen"/>ture? Only we think that theſe <hi>Quakers</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e the leaſt Portion, and that makes them <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>k ſo much of it, like them that Live where <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere is half year Nights, or like a blind man <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at wonders what the Light is which he <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es but very darkly, and ſo talks of it the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re; if they will have Scripture to ſavour <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Opinion, they muſt ſhew us where it <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not only that there is a Light in every
+<pb n="26" facs="tcp:59182:19"/>man, but that there is ſuch a Light in every man, which if he follow, will ſave him.</p>
+            <p n="2">2. Where Scripture ſays, <hi>that Chriſt en<g ref="char:EOLhyphen"/>lgihtens every man coming into the World,</hi> John 1.9. It ſays not more than what we grant, for all the Mercres we have outward, as the Light of the Sun, and inward, as the Light of Reaſon, and Conſcience, we acknow<g ref="char:EOLhyphen"/>ledge to come to us by Jeſus Chriſt, by vir<g ref="char:EOLhyphen"/>ture of the Eternal Compact made between the Father and him, that he ſhould come and Redeem the fallen, decayed, corrupted, and (by the Fall of <hi>Adam</hi>) curſed world and thus Chriſt Lightens every Man wi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Sun, Reaſon, and Conſcience, and on<g ref="char:EOLhyphen"/>ly new man, and Member of the new C<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ation with the Light of ſaving Grace, it be<g ref="char:EOLhyphen"/>hoves them to prove by Scripture that this Light by which Chriſt enlightens every man, will (if followed) lead them to Salvation and withal that it's any more than this, that Chriſt enlightens every man that is enlgit<g ref="char:EOLhyphen"/>ned, beſides that this proves not that them is a light in every man, but that every man is enlightned.</p>
+            <p n="3">3. That in <hi>Luke</hi> 17.21. <hi>(the Kingdom of God is within you)</hi> hath nothing in it for the <hi>Quakers</hi> tenement, for, what mention is here of a light within that will bring al<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="27" facs="tcp:59182:19"/>that follow it to Heaven? None at all; It's evident from the context, that by (the Kingdom of God) is meant the times when the Meſſiah ſhould be revealed, and his Kingdom come, ſo that the meaning is no more than this, The Meſſiah is come, and he is among you, or within you, that is, within the <hi>Jewiſh</hi> Nation. The next thing I ſhall do, is to lay down ſome poſitions that may prevent ſome Objections about per<g ref="char:EOLhyphen"/>fection; and to that end.</p>
+            <p n="1">1. Thoſe Proofs in Scripture that mention I perfection by an Imputed Righteouſneſs, God's looking upon Believers as perfect, through the merits of Chriſt, doth not prove thſolute perfection, but the cvontrary, be<g ref="char:EOLhyphen"/>cauſe he that needs anothers Righteouſneſs <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath no perfect Righteouſneſs of his own, otherwiſe he would not need anothers.</p>
+            <p n="2">2. Thoſe Proofs that exhort to perfection brove not perfection attainable in this life, no more than thoſe that exhort us to ſeek Heaven, that Heaven is attainable in this life.</p>
+            <p n="3">3. Thoſe Proofs that mention a Compa<g ref="char:EOLhyphen"/>tative Righteouſneſs in reſpect of others, prove not an abſolute Righteouſneſs, for that which is Comparative only, is not ab<g ref="char:EOLhyphen"/>ſolute.</p>
+            <p n="4">
+               <pb n="28" facs="tcp:59182:20"/> 4. Thoſe Proofs that mention a conſtant Trade in ſin, and free Believers from that, do not therefore free them from ſome <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Innrmity, and more eſpecially that Proof, 1 <hi>John</hi> 3.<gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. The word in the Original ſigni<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es to make a Trade of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, and to no tree behever <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t every Believer <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſome<g ref="char:EOLhyphen"/>times over-taken with ſins of weakneſs, and if he ſay be hatin to ſin, he hath no Truth in <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>. Behever; but he conſes, his <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> with the Father; to one of taeſe four poſitions you may te<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e all your Proofs for Perfection, and be<g ref="char:EOLhyphen"/>cauſe <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> low, I care not if I fill <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Paper with one word to their ſilert meeting, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> more than they them<g ref="char:EOLhyphen"/>ſelves will ali<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> them.</p>
+            <p>That which ten<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s not to Edification is not to be cone, 1 <hi>Cor.</hi> 14.20. <hi>(Let all <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> done to edifying)</hi> and this place is the more to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> need, becauſe it is ſpoken patt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oulatly of their Meetings; now, how People can I lifie, or do one another good by con<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>g a Company of them into the ſant <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> any <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther warm <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Charnis<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Cornjuriations them <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> needs have more light than Ordian<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> aiting thee
+<pb n="29" facs="tcp:59182:20"/>the Apoſtles were Commanded, <hi>Acts</hi> 1.4. can patronize this, they muſt prove that the Apoſtles ſtaid in the ſune Chami<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r all the while, that they ſaid nothing, as it's everant they did, <hi>v.</hi> 15. and wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n that is done, they muſt evening, all the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of them, and make a ſilent Meeting, which ſhall continue as long as the Apoſtles old, and by that time they will be as willing to break up their Meeting as I am to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have writing And if that place <hi>(be hent all Fleſh)</hi> prove any thing to this purpoſe, it proves more that they are never to ſpeak at all; and if they will do this, with all my heart: we ſhall have leſs <hi>(thouing)</hi> and d<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nding other Meetings, as was the manner of the men, however this willing pre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ails with me ſo far as to make me now ſilent, and reſt</p>
+            <closer>
+               <signed>Your Loving Coſin.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="30" facs="tcp:59182:21"/>
+            <opener>
+               <salute>
+                  <hi>Honoured Coſin,</hi> &amp;c. —</salute>
+            </opener>
+            <p>WE are tyed to Love each other by a three-ſold Cord; as we are Coſins, as we are Friends, and as we are Chriſtians; the laſt of them (Chriſtianity) is (as I take it) the moſt firm and inſol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble tye. It is that (if our profeſſion of it be ſincere, without Hy<g ref="char:EOLhyphen"/>pocriſie, and Founde don a Principle of Grace) which will be our Comfort, Joy, and Solace, when our Friends, our Relati<g ref="char:EOLhyphen"/>ons, our Riches, yea, our Lives will leave us. God hath been Teaching you and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by Experience that Leſſon which <hi>Solomon</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> often inculcates, <hi>All is Vanity and Vexation of Spirit;</hi> that we cannot chuſe but have it by heart by this time: There is no ſo<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Peace, no Tranquility, no reſt, no ſecurity in any thing but Chriſt, and an Intereſt in him. We have known the Vanity of Fridns, and how their promiſes have dyed, and been buried with our Parents: We have alſo ſeen Riches take to themſelves Wings, and flie away with th Love and Promiſes of our Parents Friends on their backs: And as for our-preſent dying Lives, Divien Pro<g ref="char:EOLhyphen"/>vidence
+<pb n="31" facs="tcp:59182:21"/>hath moſt abundantly diſplayed and manifeſted to us the vanity and frailty thereof, when our Fathers and Mothers, and almoſt all but our ſelves are gone, and have taken their laſt leave of this vain and miſe<g ref="char:EOLhyphen"/>rable World; and left us to grapple with all the fie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce fiery Temptations wherewith the Devil ſhall aſſault our Souls, and all the Af<g ref="char:EOLhyphen"/>flictions and Troubles that (like our ſha<g ref="char:EOLhyphen"/>dows) ſhall continually follow our Bodies; what remains therefore, but that we ſeri<g ref="char:EOLhyphen"/>ouſly ſet us about that great work of eter<g ref="char:EOLhyphen"/>nal Concernment, examining our ſelves what progreſs we have made in our Journey to Heaven; how far we are gone towards Happineſs, or whether we are gone any thing at all; how great the work we have to do, is, and how ſhort the time we have to do it in: and why ſhould we (unleſs be<g ref="char:EOLhyphen"/>cauſe the Devil will have it ſo) be backward in Catechizing our ſelves about theſe things, things that ſo much comport with reaſona<g ref="char:EOLhyphen"/>ble Souls, things too that ſo loudly call for the greateſt and exacteſt care; for me-thinks there is ſo much of Reaſon in Religion and Piety, and ſo much of it wanting in Irreli<g ref="char:EOLhyphen"/>gion and Luxury, that there is none at all in them that chuſe the way of ſin, whatever Joy or Encouragement it may vainly pro<g ref="char:EOLhyphen"/>miſe
+<pb n="32" facs="tcp:59182:22"/>them, before Grace and Virtue, though cloathed in Raggs, and attended with the greateſt Miſery the World can lay upon them, what pleaſure can there be in Vice? Or what delight in ſin? Is there any thing in them Conſonant to the generous Principles of Reaſon, or to thoſe more generous Prin<g ref="char:EOLhyphen"/>ciples of real Happineſs? Can there be any thing taking in Gluttony, Drunkenneſs, or Luxury, in which we are moſt experienced and perfect, we have but very fairly con<g ref="char:EOLhyphen"/>verted our ſelves into Beaſts that periſh, and turned our ſelves a grazing (like <hi>Nebuchad<g ref="char:EOLhyphen"/>nezzar</hi>) with the Beaſts of the Field? A brave Commendation for a Reaſonable Soul! For indeed, if we do but obey that other half ofour ſelves (our Reaſonable Souls) and yield to it's dictates, we ſhall ſoon be convinced that there is a God; for could the World, ſo glorious a Fabrick, be<g ref="char:EOLhyphen"/>ing of a Compound Nature, make it ſelf before it was? Could eachpart come toge<g ref="char:EOLhyphen"/>ther without ſome Mover? Or could each part move before it was? Could it bear the reſt of the moſt curious and Critical Rea<g ref="char:EOLhyphen"/>ſon, and be found to be exactly Conſonant to the higheſt Reaſon, and yet be made by ſomething that had no Reaſon at all! It muſt then be either Created, or Eternal; and if
+<pb n="33" facs="tcp:59182:22"/>it were Eternal, it is very ſtrange that we ſhould have no Records, no Chronicles of any Perſons or their Actions before <hi>Adam:</hi> That the World ſhould be doing nothing from Eternity till ſix thouſand years ago is more incredible than the greateſt er<g ref="char:EOLhyphen"/>ror in Religion; and if they did any thing, it is as ſtrangely, ſo that we ſhould never hear of it: And why thoſe Perſons (the <hi>Egyptians</hi>) that pretend to the higheſt An<g ref="char:EOLhyphen"/>tiquity, do yet acknowledge a beginning; why no particular Beings (that God we erve excepted) did erect, or could with any ſhadow of Reaſon aſſert themſelves Eternal without making themſelves the ob<g ref="char:EOLhyphen"/>jects of the greateſt Ridicle and Laughter? Or why no particular Nation or People have ever claime a right to the higheſt An<g ref="char:EOLhyphen"/>tiquity (<hi>viz.</hi> Eternity) Or, laſtly, why Eternity muſt (when nothing ele can) exiſt only in Univerſals and Generals, and not in Particulars, or Individuals, are all Paradoxes beyond belief incredible. If then there be a God (as it is Infallibly cer<g ref="char:EOLhyphen"/>tain there is) and if he hath Created us, it is a Natural, and moſt reaſonable Inference that he ſhould be adored and Worſhipped: how diſingenious ſhould we be, if inſtead of ſerving him, we ſhould take thoſe
+<pb n="34" facs="tcp:59182:23"/>Courſes that are moſt diſpleaſing in his eyes, as the leaſt ſin, and the moſt minute vice is; and if he muſt be Worſhipped, it is all the Reaſon in the World he ſhould acquaint us how, and that we can no way know but as he is pleaſed to reveal his Will by his word, the Scriptures; and therefore it is your and my ſafeſt way to Regulate our Devotions, and all our Actions by his Word. If we ſhould not Worſhip him according to his Word, according to what elſe ſhould we? Is it not moſt probable, that God would rather appoint us our way of Worſhip i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Word, then hazard us to he vain Tra<g ref="char:EOLhyphen"/>ditions and uncertain dictates of a fallible, though <hi>Roman</hi> Church? Is it not more ſafe to follow the Word ofGod than the Com<g ref="char:EOLhyphen"/>mands of Idolatrous Men, under what plau<g ref="char:EOLhyphen"/>ſible Titles ſoever they go? How far there<g ref="char:EOLhyphen"/>fore the Great, Infallible, and Maſſie men of our days are out, when they are ſo im<g ref="char:EOLhyphen"/>portunate with us to ſerve God according to their Fanatick Breviaries, and yet will not give us leave to Worſhip him according to his Word, without the imputation of Hereticks, is ſoon diſcerned by one with half an Eye. We Live (Dear Coſin we Live in Times and Places that it is but Or<g ref="char:EOLhyphen"/>dinary to hear men talk in Company againſt
+<pb n="35" facs="tcp:59182:23"/>the Being of a God, and cry down Reli<g ref="char:EOLhyphen"/>gion as a vain and Melancholy fancy; and others make as light of the Word of God as the former do of God; and therefore we had need be well principled in Religion, and know the grounds and Reaſons of our Faith againſt the Huffing Atheiſts on the one hand, and the proud and impoſing Papacy on the other. To my deſire that we might be ſo, im<g ref="char:EOLhyphen"/>pute this large a Harangue. And now I am ſufficiently ſenſible how tedious I have been, how much I need your pardon, and hoping that you will grant it, you ſhall reſt, and I remain</p>
+            <closer>
+               <signed>
+                  <hi>Yours,</hi> &amp;c.</signed>
+            </closer>
+         </div>
+         <div type="appendix">
+            <pb n="36" facs="tcp:59182:24"/>
+            <head>Appendix.</head>
+            <p>I AM not Ignorant of Mr. <hi>Danve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> his Book againſt Infant-Baptiſm, nor of others about Quakeriſm, and againſt Athe<g ref="char:EOLhyphen"/>iſm, that have come ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſince theſe Letters were written, which I have neither time, leiſure, nor neceſſity to take notice of, how<g ref="char:EOLhyphen"/>ever, upon that Account, perhaps, it my be needful to add a word o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> two concerning each point: Concerning infants born in Co<g ref="char:EOLhyphen"/>venant, and ſo having a right to the ſign of it, I offer this Argument further, when the Jews are called (which moſt of our Bre<g ref="char:EOLhyphen"/>thren do believe) either their Children ſhall be the Subjects of the ſign of the Co<g ref="char:EOLhyphen"/>venant or not; if they ſhall, then our Chil<g ref="char:EOLhyphen"/>dren are ſo now, and this ſign muſt be either Baptiſm or Circumciſion, but not the lat<g ref="char:EOLhyphen"/>ter, therefore the former; if not, then it is as plain as th Sun at Noon day, that they
+<pb n="37" facs="tcp:59182:24"/>will want a priviledge which they had be<g ref="char:EOLhyphen"/>fore the coming of Chriſt; which was theirs before the giving out of the Ceremo<g ref="char:EOLhyphen"/>nial Law; and therefore no p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t of i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and before the diſtin<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> between <hi>J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r</hi> an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Gen<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ile,</hi> and therefore not prope<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the <hi>Jews</hi> (though the<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and that God <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> give a ſign that he will <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Covenant, or the Grace of the Covenant of Grace to <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me more o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oner than others, or that he will enter them into any part (though but the outward) of it, is (one would think) a great priviledge. And whether t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ece of Sup<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rſtition may <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot be an Obſtacle and hindrance to the Co<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rſion of the <hi>Jews,</hi> as at this day the Idolatry of the <hi>Bom<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> is, I leave it to the judicious, and unpr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>j<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed to conſider.</p>
+            <p>For the f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rther obviating that tri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e &amp; plau<g ref="char:EOLhyphen"/>ſible objection, <hi>What command have you <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or Infant-Baptiſm? Bring me one plain Scripture Precept for it without Conſequences; is not Be<g ref="char:EOLhyphen"/>lievers Baptiſm plainly Commanded Go, and Teach all Nations, Baptizing them?</hi>
+            </p>
+            <p n="1">1. Take notice, that it is granted by us that Believers Baptiſm is clearly Comman<g ref="char:EOLhyphen"/>ded, but not that onely: Inſant-Baptiſm is no leſs ſo, we are for Believers Baptiſm, and onely for that in the ſame Caſe that
+<pb n="38" facs="tcp:59182:25"/>Chriſt and his Apoſtles were, if the Go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> were Preached amongſt Heathens, or the like, but (ſuppoſing the Text to be under<g ref="char:EOLhyphen"/>ſtood in their confined ſenſe of Men and Women, or Believers only) our caſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not the ſame now, and therefore the Argu<g ref="char:EOLhyphen"/>ment will not hold. But,</p>
+            <p n="2">2. Here is no plain Command for Bap<g ref="char:EOLhyphen"/>tizing <hi>Men</hi> and <hi>Women,</hi> no, nor <hi>Believ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> without a Conſequence, for here is no m<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tion of <hi>Men</hi> or <hi>Women,</hi> or <hi>Believers;</hi> b<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſome ſuch Argument muſt be framed, and we muſt draw ſome ſuch Conſequence <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Concluſion as theſe; <hi>onely they that are, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>pable of being Taught, or onely thoſe that re<g ref="char:EOLhyphen"/>ceive the Teachings of Chriſt and his M<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſters are to be Baptized, but Men and Wom<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> or Believers onely are ſo, therefore they onely are to be Baptized.</hi> And now, my good Friends, where is your <hi>Plain Scripture Proof</hi> for the Baptizing of <hi>Men</hi> and <hi>Women,</hi> or <hi>Believers</hi> without Conſequences? Or, if you could produce it for that, were for them <hi>onely;</hi> we deſire leave therefore f<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> your further Conviction (if you pleaſe) to retort your queſtion upon you, where is your <hi>Plain Command?</hi> Anſwer it, if you can, yet,</p>
+            <p n="3">3. I humbly conceive that Text, <hi>M<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi>
+               <pb n="39" facs="tcp:59182:25"/>28, 19, 20. is a plainer, and more direct Command for Baptizing Children than Men and Women, which (beſides that the meaning of it (if my former aſſertions ſhould not hold) ſeems very fairly without any wreſting and diſtortion of it, to be this, <hi>As before my Coming you have given Circum<g ref="char:EOLhyphen"/>ciſion the then Sign of the Covenant, to the l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ws, and their Children; ſo now give Bap<g ref="char:EOLhyphen"/>tiſm (which I appoint for the future to be a Sign of the Covenant)to the</hi> Gentiles <hi>(all Nations) upon their accepting of the Covenant (which ſhe</hi> Jews <hi>reject</hi>) <hi>and to their Children.</hi>) <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſides this, I ſay, I attempt to prove thus. That place which Commands Baptiſm be<g ref="char:EOLhyphen"/>fore Teaching doth not directly and plainly Command Men and Women to be Baptiz<g ref="char:EOLhyphen"/>ed, for they are to be taught before they be Baptized; but this doth ſo. Baptize, in the 19. <hi>v.</hi> and then Teach, in the 20. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Teach by Inſtructing, and our Bre<g ref="char:EOLhyphen"/>thren know very well, for they contend that the <hi>Teach,</hi> in the 19. <hi>v.</hi> is not rightly ren<g ref="char:EOLhyphen"/>dred, but ſhould e Tranſlated <hi>Diſciple,</hi> (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) or make Diſciples, or Scho<g ref="char:EOLhyphen"/>lars; now, we know Children are ſent to School, not becauſe they have Learnt, but that they may Learn, they are truly Scho<g ref="char:EOLhyphen"/>la<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s as ſoon as they are entred into the
+<pb n="40" facs="tcp:59182:26"/>School, and given up to the Care and Tu<g ref="char:EOLhyphen"/>ition of the Maſter, before they have leard a Letter: ſo Children are entred into the Church of Chriſt, (and Baptiſin is, as is were, their entrance money) before they learnt any Leſſion, when they are ſolement given up, and devoted by their Partents to Je2us Chriſt; and if it be granted that In<g ref="char:EOLhyphen"/>fants may be Baptized as ſoon as they an capable of Learning any of the Commands of Chriſt, and ſo may be Scholars indeed; this grant will over-throw our Baptized Brethrens Opinion. See here thereſore my good Friends, a plainer Command for the Baptizing of Children than you haye for Baptizing Men and Women.</p>
+            <p>Councerning the Second Diſpute, it may be thought I am too tart, and Satyrical a<g ref="char:EOLhyphen"/>gainſt the poor <hi>Quakers;</hi> if I am ſo any where, I deſire to be underſtood of the cen<g ref="char:EOLhyphen"/>ſorious, the wilfully Ignorant, the haugh<g ref="char:EOLhyphen"/>ty, the perſect of them, ſuch as that Qu<g ref="char:EOLhyphen"/>king Pope, <hi>George Fox,</hi> with whom it is at impoſſible to Write calmly and Chriſtianly as it is to Write Senſe. I have a great deal of Charity for many of thoſe People who walk according to their Light, and are not tainted with the <hi>Socinian</hi> Myſteries of the Trade; ſuch I hope there are amongſt
+<pb n="41" facs="tcp:59182:26"/>them; and I am for Union, even here alſo, ſo as to keep up an a micable correſpondence with them, that we may Live Civily and unictly together like Men and Chriſtians, without damning, infeſting, and railing at deth other.</p>
+            <p>I know the Ingenious and Nobly-deſign<g ref="char:EOLhyphen"/>ing Author of the <hi>Aſiddle-wayes</hi> hath ſtudi<g ref="char:EOLhyphen"/>ouſly attempted a Reconciliation between us about Perfection: but I fear they will not be content with an Allowance of an Evanelical, unleſs he grant them alſo a Le<g ref="char:EOLhyphen"/>gal Perfection; againſt which my Argu<g ref="char:EOLhyphen"/>ments and Diſcourſe about that point alto<g ref="char:EOLhyphen"/>gether militate.</p>
+            <p>I muſt add one word further, with Re<g ref="char:EOLhyphen"/>ſpect to the Second Letter, againſt Atheiſm, and particularly concerning the Eternity of the World, which I take to be the ſureſt and ſtrongeſt Refuge of the Atheiſt, if he can maintain it; and for this reaſion I am apt to think the new Philoſophy hath not deferved ſo ill of Divines as the Old; but neally merits more civil entertainment than ſhe uſually meets with: it being much the eaſier Province to prove that the World is not the Product of the Concourſe, or jum<g ref="char:EOLhyphen"/>blement of Atoms, than it's Non-Eternity againſt this grand Fancy of the Atheiſt, I
+<pb n="42" facs="tcp:59182:27"/>offer theſe two Arguments. <hi>Ad Homi<g ref="char:EOLhyphen"/>nem.</hi>
+            </p>
+            <p n="1">1. That which is imperceptible, (not a be perceived) by the Senſes, is not, but the Eternity of the World is imperciptible, neither to be ſeen, felt, heard, nor ſmelt; if the former Aſſertion be falſe, then doch the Atheiſts great Objection againſt the Ba<g ref="char:EOLhyphen"/>ing of a God, or a Soul falls to the grount; if the latter be true, then oh you Atheiſtion Clubs, where alone is the conſtant Rel<g ref="char:EOLhyphen"/>dence of Wit. Oh, you at are the grey and onely <hi>Wittiſt;</hi> of the Age, you that has ſo long ago engroſſed to your ſelves all re<g ref="char:EOLhyphen"/>ſon, and had the Monoply of all Ingenuity; for Love (who is your onely Deity) I ſay, for Loves ſake, produce one of your grea <hi>Racierinoſe's,</hi> ſome Mighty <hi>Leviathan</hi> it Rea2on, (for you are all ſo;) ſome pre<g ref="char:EOLhyphen"/>ſound Admirer of Dame <hi>Nature,</hi> your Le<g ref="char:EOLhyphen"/>ving Mother and Miſtreſs too, that ſhall ir<g ref="char:EOLhyphen"/>refragably demonſtrate the Eternity of the World by <hi>Senſe,</hi> and tell us boldly, and bravely (for that he may as well as that there is no God) that he hath often ſeen (and admired we may be ſure) that grea Beauty, <hi>Eternity of the World:</hi> and heard her play the moſt melodious Muſick that over was heard. If there be any other Prin<g ref="char:EOLhyphen"/>ciple
+<pb n="43" facs="tcp:59182:27"/>of Reaſoning beſides Senſe, what is it? How came we to have that knowledge that never came by our Senſes, (I mean, by being the Objects of them) or thoſe Notions which we are ſure Senſe could never teach us? What reaſon can your <hi>Witneſſes</hi> give, why ſhe ſhould not have an inſenlible, or immaterial pringiple of diſcerning, as well as a material, or corporeal Principle of <hi>Sen<g ref="char:EOLhyphen"/>ſing,</hi> or perceiving by the Senſes. But if you will needs have it ſo, that there is no<g ref="char:EOLhyphen"/>ſhing but what is ſeen, and nothing elſe is to be believed to be: then produce the E<g ref="char:EOLhyphen"/>ternity of the World, nad let us alſo ſee and admire her.</p>
+            <p n="2">2. If the World be Eternal, all the parts of it are ſo, or ſome parts onely: not the former, for we ſee Living Creature which are it's Nobleſt parts, have their Beginning, not the latter; for if any parts are Eter<g ref="char:EOLhyphen"/>nal, the chiefeſt and beſt parts, and for whoſe uſe the World is, are ſo. But this is falſe. Man, who is the Nobleſt part, we ſee, ſtep into the World, and dye before our Faces. We ſee him both begin and end his Life, and are therefore ſure by the Athe<g ref="char:EOLhyphen"/>iſts one Arguments of ſenſe, that he is not Eternal. And the Atheiſt is very well ſatis<g ref="char:EOLhyphen"/>fied that there is never a Being better than
+<pb n="44" facs="tcp:59182:28"/>himſelf. We ſee no man comes into the World without a Cauſe, nor can there be any Reaſon given, why any one man ſhould be without a Cauſe, or Eternal, and not the reſt; there is no ſuch thing as Humane Na<g ref="char:EOLhyphen"/>ture, our of an <hi>Individuum,</hi> or a particular Perſon; and therefore Man, or Humane Nature could not be Eternal by any Succel<g ref="char:EOLhyphen"/>ſion of Men, or Humane Nature <hi>un indivi<g ref="char:EOLhyphen"/>duated;</hi> if then there be no Humane Perſon or <hi>Iudividuum</hi> Eternal, Humane Nature cannot be ſo; And if Man was not Eter<g ref="char:EOLhyphen"/>nal, to what purpoſe ſhould the Sun, Moon, Stars, or Earth be ſo? Since we ſee plainly that all theſe things are (however it comes about) for the uſe of Man, ſince the Chiel eſt and Nobleſt parts of the World, which we do know are temporal, and hare had a beginning; why may we not conclude that thoſe things we do not know are ſo too, and did we but know them as well as we do theſe, we ſhould as little diſpute whether they had a beginning, as we de now whether men, Beaſts, Cities, &amp;c. have. The Father is Eternal (without Beginning) to the Child, becauſe he was in the Work before, and he did not ſee him come in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it. The Atheiſt, becauſe God made and Furniſhed a World for him before he made
+<pb n="45" facs="tcp:59182:28"/>him, diſputes againſt God, and becauſe the World was before him, he will therefore needs conclude, that it was always. How much more would he have been diſpleaſed if God has made him when there was no World, and ſent him into a naked <hi>Nothing.</hi> The World then is not Eternal, and if it be not, then it is made either by a fortuitious concourſe of Atoms, that is, by <hi>Chance</hi> or <hi>Fortune;</hi> or by an Infinitely perfect, pow<g ref="char:EOLhyphen"/>erful, and wiſe Being, that is, by God, not by Chance or Fortune, for that is nothing; there is no ſuch thing in <hi>Rerum Naturae,</hi> and can we imagine all things to be made by nothing? If not, then God made the World, and he will as ſurely judge it.</p>
+            <p>I have now done; only give me leave, I pray you, oh you Proteſtants of differing Judgments, moſt eſpecially Presbyterians, Independents, and Anabaptiſts, though you differ in Matters of Church-Govern<g ref="char:EOLhyphen"/>ment, or about the Timing or Subjects of Baptiſm, yet in the Name of the Eternal God let me beg of you, Cement, Cement, Love one another more, bear with one ano<g ref="char:EOLhyphen"/>thers Ignorance (we all know but in part) and pardon each others Imperfections. Can<g ref="char:EOLhyphen"/>not you have different apprehenſions of the things of God, but you muſt diſhonour
+<pb n="46" facs="tcp:59182:29"/>him, diſgrace Religion, diſparage Holineſt, and envy one another? What means your ſo great abſenting your ſelves from one ano<g ref="char:EOLhyphen"/>thers Meetings? Why muſt you have one<g ref="char:EOLhyphen"/>ly ſuch Preachers of your own Party to Preach at your Lectures, and not ſome of all? Why when Doctor or Miniſter ſuch a one comes up, and ſeverally; his Auditiors, eſpecially Miniſters, of his own Party one<g ref="char:EOLhyphen"/>ly? And why again, when Doctor or Mi<g ref="char:EOLhyphen"/>niſter, ſuch a one comes up, the Scene it changed, and behold, a new ſet of Faces! Doth not God bear with your Ignorance, and will not you bear with one anothers? Doth not he Love you, though he very well knows that you neither know, nor do what you ought? and cannot you do the ſame for one another? It is dreadful to think what heats, and heart-burnings! what Jea<g ref="char:EOLhyphen"/>louſies and ſurmiſes! what ſcorn and Con<g ref="char:EOLhyphen"/>tempt! what Reproaching and back-biting, vilifying &amp; defaming there is amongſt you, one againſt another! Will you never leave theſe things? Or could you have thought ten or eleven years ago when you Prayed, Preached, and heard together in corwded Corners, when you mourned and Faſted to<g ref="char:EOLhyphen"/>gether, when you be wailed together the ſins of your Proſperity, your Animoſities, your
+<pb n="47" facs="tcp:59182:29"/>contentions, Pride, and ſelf-intereſtedneſs: oh, could you then have thought, or would you have believed, if one had told you that ſo ſoon, within ſo few years, you would have ſtood aloof off, and looked askew upon one another, as now (God and the World knows) you do? Have you forgot, and have you already forgot when the Almigh<g ref="char:EOLhyphen"/>ty ſaw your Tears trickling down your Cheeks for your Diviſions, when he heard your Promiſes, your Vows, that you would Reform and Unite? And have you ſo ſoon broke all? Will you yet return, with the Dog, to his Vomit, and lick up your bitter choler one againſt another, and then Vomit it up again in each others Faces? Is this the courſe you intend always to take? Will you al<g ref="char:EOLhyphen"/>ways run in this dreadful Round, this De<g ref="char:EOLhyphen"/>viliſh Conjuring Circle, and raiſe yet more ſtorms upon your ſelves? Will you go on to wreſt yet greater Judgments out of the hands of God's Mercy upon your ſelves, your Nation, and the ſo rented, torn, and divided Church of God? will you never have done biting, and back-biting each o<g ref="char:EOLhyphen"/>ther? I know you do ſometimes confeſs theſe your diviſions, but alas! what will that avail, if you Reform not? I know too you ſome<g ref="char:EOLhyphen"/>times Preach and Pray, and Diſcourſe, and
+<pb n="48" facs="tcp:59182:30"/>that with ſeeming warmth for Unity, but then <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it comes to proctice, and your Notions are to be<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> duced to Action, then you fall back; and what <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this avail? Shall <hi>What is he? What Party is he of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> always the great and moſt weighty Queſtion that me <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> turn the Scale of Reſpect or diſ-eſteem? Shall it <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ever be the Character of the Non-Conformists, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lord deliver every good Chriſtian from it. Do you long to be hurtied together into Priſons again? W<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> no place Unite you, but a naſty Dungeon? N<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> thing Sodder you but Perſecution? Oh beware <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ware, you provoke not the Almighty God to laſh you again; the next time he may Chaſtiſe you with Fa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> gots, with Scorpions, with Devils; and do not thin, if once you are under Hathces again, that a few col<g ref="char:EOLhyphen"/>loguing ſighs, Prayers, or Promiſes ſhall redeem you vet may e're long (you know not how ſoon) be de<g ref="char:EOLhyphen"/>ing Pennance together in Popiſh Llmbo's, gawky to <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ther under the ſad Yoak of their Preſſing Seven<g ref="char:EOLhyphen"/>tion, and hatrſſed with their unmerciful Mortifical<g ref="char:EOLhyphen"/>ors. Nay, who knows but you may e're long be ca<g ref="char:EOLhyphen"/>haled gether into Heaven out of a fiery Chaniot <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> I agg as? And is it for you thus to ſtand at a distance from, thes to gnaw and bate one another? And whe not you <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, Pray, and hear together? God for hid! Ah! my Bre hren, it you have any love ſo Ged, who <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> by theſe things diſhonoured, any teny derneſs for your own Souls, that are by theſe thing ſo much hazarded; any pity for the diſtreſſed Churel of God that lye bleeding; any Compaſſion for you Native Land that is e'ne quite Ruined &amp; undone; of any regard for your Poſterity, follow, and follow has after Unity; if you will not, the Lord be Merciful to us!</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:59182:30" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
